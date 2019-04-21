@@ -32,7 +32,7 @@ Krom is a target developed specifically for Kha that is designed to allow rapid 
 
 #### Web
 
-Kha can publish games for web in seconds. The performance in browsers is supposed to be about 20% slower than Krom, and there are some graphics features such as Tessellation that that are not supported in Web ( WebGL ).
+Kha can publish games for web in seconds. The performance in browsers is supposed to be about 20% slower than Krom, and there are some graphics features such as Tessellation that are not supported in Web GL ).
 
 #### HashLink ( HL )
 
